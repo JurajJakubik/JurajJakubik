@@ -1,5 +1,5 @@
 ---
-layout: This is the page for everything
+layout: 
 title: Juraj Jakubik
 ---
 
@@ -11,7 +11,7 @@ In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Je
 
 There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
+* [LinkedIn](https://www.linkedin.com/in/juraj-jakub%C3%ADk-0a6473127/)
 * [Lanyon](http://lanyon.getpoole.com)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
