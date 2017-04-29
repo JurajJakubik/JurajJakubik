@@ -4,11 +4,11 @@ title: CV
 ---
 
 ## Juraj Jakubik
-- https://www.linkedin.com/in/juraj-jakub%C3%ADk-0a6473127/
 - 4949 SW Landing Drive
 - Portland, OR 97239
 - 503-380-5068
 - jakubikml.juraj@jhjkovex.sk
+- [LinkedIn](https://www.linkedin.com/in/juraj-jakub%C3%ADk-0a6473127/)
 
 ### Personal summary
 
