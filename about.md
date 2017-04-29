@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: This is the page for everything
+title: Juraj Jakubik
 ---
 
 <p class="message">
