@@ -3,12 +3,12 @@ layout: page
 title: CV
 ---
 
-## Anew Guy
-- http://yourwebsite.com
-- 123 Fake Street
-- Portland, OR 97213
-- 555-555-5555
-- your.email@address.com
+## Juraj Jakubik
+- https://www.linkedin.com/in/juraj-jakub%C3%ADk-0a6473127/
+- 4949 SW Landing Drive
+- Portland, OR 97239
+- 503-380-5068
+- jakubikml.juraj@jhjkovex.sk
 
 ### Personal summary
 
@@ -16,7 +16,7 @@ title: CV
 
 ### Education
 
-- M.A.     Subject (grade), University name and location
+- M.A.     Institute of manufacturing systems, environmental technology and quality management (grade), Slovak University of Technology in Bratislava
 - B.A.     Subject (grade), University name and location
 - A Level  Subject (grade), University name and location
 
